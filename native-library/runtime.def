@@ -1,0 +1,4 @@
+package = com.lorenzoog.nativelibrary
+
+headers = heap.h
+staticLibraries = libruntime.a
